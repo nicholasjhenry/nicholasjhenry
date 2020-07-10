@@ -8,7 +8,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [ExCheckout](https://www.youtube.com/playlist?list=PLe07JYpYU5F08hA5AyxKQRGzX3POgTBjn)
 - [Elixir is Transforming My Mind](https://vimeo.com/148664265)
 - [Don't Commit Your Secrets](https://vimeo.com/98544062)
-- [Modeling on the Right Side of the Brain(RailsConf 2014)](https://www.youtube.com/watch?v=ABIvpz50cKU)
+- [Modeling on the Right Side of the Brain (RailsConf 2014)](https://www.youtube.com/watch?v=ABIvpz50cKU)
 
 ### Social Media
 
