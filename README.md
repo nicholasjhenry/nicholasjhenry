@@ -4,7 +4,8 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 ### My Talks
 
-- [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=xj6yNzcGlEE)
+- The Upside Dimension of Elixir - An Introduction to Metaprogramming - ElixirConf 2020 (video coming soon)
+- [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=xj6yNzcGlEE) - Montreal Meetup
 - [ExCheckout](https://www.youtube.com/playlist?list=PLe07JYpYU5F08hA5AyxKQRGzX3POgTBjn)
 - [Elixir is Transforming My Mind](https://vimeo.com/148664265)
 - [Don't Commit Your Secrets](https://vimeo.com/98544062)
