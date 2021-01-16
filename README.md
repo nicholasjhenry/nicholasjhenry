@@ -6,10 +6,10 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 - [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=EFAgc7YqDP8) (ElixirConf 2020)
 - [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=xj6yNzcGlEE) (Montreal Elixir, March 2020)
-- [ExCheckout](https://www.youtube.com/playlist?list=PLe07JYpYU5F08hA5AyxKQRGzX3POgTBjn) (Montreal Elixir, September 2018)
-- [Elixir is Transforming My Mind](https://vimeo.com/148664265) (Montreal.rb, December 2014)
-- [Don't Commit Your Secrets](https://vimeo.com/98544062) (Montreal.rb, June 2014)
-- [Modeling on the Right Side of the Brain](https://www.youtube.com/watch?v=ABIvpz50cKU) (RailsConf 2014)
+- [ExCheckout with Nerves, Scenic and OTP](https://www.youtube.com/playlist?list=PLe07JYpYU5F08hA5AyxKQRGzX3POgTBjn) (Montreal Elixir, September 2018)
+- [Elixir is Transforming My Mind - An Introduction to Elixir](https://vimeo.com/148664265) (Montreal.rb, December 2014)
+- [Don't Commit Your Secrets - Securing your Rails Application](https://vimeo.com/98544062) (Montreal.rb, June 2014)
+- [Modeling on the Right Side of the Brain - Domain Modeling](https://www.youtube.com/watch?v=ABIvpz50cKU) (RailsConf 2014)
 
 ### Social Media
 
