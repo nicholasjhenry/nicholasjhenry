@@ -4,6 +4,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 ### My Talks
 
+- Preventing Brain Freeze - Onboarding New Developers to your Inhouse Application (ElixirConf 2021)
 - [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=EFAgc7YqDP8) (ElixirConf 2020)
 - [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=xj6yNzcGlEE) (Montreal Elixir, March 2020)
 - [ExCheckout with Nerves, Scenic and OTP](https://www.youtube.com/playlist?list=PLe07JYpYU5F08hA5AyxKQRGzX3POgTBjn) (Montreal Elixir, September 2018)
