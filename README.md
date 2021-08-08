@@ -18,6 +18,10 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [Blog - Medium](https://medium.com/@nicholasjhenry)
 - [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
 
+## Publications
+
+- [Elixir Radar](https://sendy.elixir-radar.com/w/BNoHZTqLnAByWgOl6x892ZRw/J8921cxQ4jeEDmbVKDWh02aw/Az892hFCnr0XRk763iZFssXNVQ) Featured "The Upside Dimension of Elixir - An Introduction to Metaprogramming"
+
 <!--
 **nicholasjhenry/nicholasjhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
