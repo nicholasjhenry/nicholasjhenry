@@ -18,6 +18,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [Pinboard](https://pinboard.in/u:nicholasjhenry)
 - [Blog - Medium](https://medium.com/@nicholasjhenry)
 - [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
+- [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
 
 ## Publications
 
