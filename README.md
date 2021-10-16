@@ -19,6 +19,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [Blog - Medium](https://medium.com/@nicholasjhenry)
 - [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
 - [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
+- [Gravatar](https://en.gravatar.com/nicholasjhenry)
 
 ## Publications
 
