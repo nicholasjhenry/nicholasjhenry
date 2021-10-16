@@ -4,13 +4,13 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 ### My Talks
 
-- Preventing Brain Freeze - Onboarding New Developers to your Inhouse Application (ElixirConf 2021)
+- Preventing Brain Freeze - Onboarding New Developers to your Inhouse Application (To be published) | [Slides](https://speakerdeck.com/nicholasjhenry/preventing-brain-freeze-onboarding-new-developers-with-living-documentation?slide=59) | [Example](https://github.com/nicholasjhenry/pockets_platform) (ElixirConf 2021)
 - [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=EFAgc7YqDP8) (ElixirConf 2020)
-- [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=xj6yNzcGlEE) (Montreal Elixir, March 2020)
+- [The Upside Dimension of Elixir - An Introduction to Metaprogramming](https://www.youtube.com/watch?v=xj6yNzcGlEE) | [Slides](https://speakerdeck.com/nicholasjhenry/the-upside-down-dimension-of-elixir-an-introduction-to-metaprogramming) (Montreal Elixir, March 2020)
 - [ExCheckout with Nerves, Scenic and OTP](https://www.youtube.com/playlist?list=PLe07JYpYU5F08hA5AyxKQRGzX3POgTBjn) (Montreal Elixir, September 2018)
-- [Elixir is Transforming My Mind - An Introduction to Elixir](https://vimeo.com/148664265) (Montreal.rb, December 2014)
-- [Don't Commit Your Secrets - Securing your Rails Application](https://vimeo.com/98544062) (Montreal.rb, June 2014)
-- [Modeling on the Right Side of the Brain - Domain Modeling](https://www.youtube.com/watch?v=ABIvpz50cKU) (RailsConf 2014)
+- [Elixir is Transforming My Mind - An Introduction to Elixir](https://vimeo.com/148664265) | [Slides](https://speakerdeck.com/nicholasjhenry/how-elixir-is-transforming-my-mind) (Montreal.rb, December 2014)
+- [Don't Commit Your Secrets - Securing your Rails Application](https://vimeo.com/98544062) | [Slides](https://speakerdeck.com/nicholasjhenry/dont-commit-your-secrets) (Montreal.rb, June 2014)
+- [Modeling on the Right Side of the Brain - Domain Modeling](https://www.youtube.com/watch?v=ABIvpz50cKU) | [Slides](https://speakerdeck.com/nicholasjhenry/modeling-on-the-right-side-of-the-brain) RailsConf 2014)
 
 ### Social Media
 
