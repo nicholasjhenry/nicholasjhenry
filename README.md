@@ -2,6 +2,11 @@
 
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). Located in Montreal, QC, Canada.
 
+### Associations
+
+* [Montreal Elixir Meetup](https://www.montrealelixir.ca)
+* [CivilCode Collective](https://www.civilcode.io)
+
 ### My Talks
 
 - Preventing Brain Freeze - Onboarding New Developers to your Inhouse Application (To be published) | [Slides](https://speakerdeck.com/nicholasjhenry/preventing-brain-freeze-onboarding-new-developers-with-living-documentation?slide=59) | [Example](https://github.com/nicholasjhenry/pockets_platform) (ElixirConf 2021)
@@ -20,6 +25,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
 - [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
 - [Gravatar](https://en.gravatar.com/nicholasjhenry)
+- [Vimeo](https://vimeo.com/nicholasjhenry)
 
 ## Publications
 
