@@ -20,7 +20,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 ### Social Media
 
 - [Twitter](https://twitter.com/nicholasjhenry)
-- [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ)
+- [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ/playlists)
 - [Pinboard](https://pinboard.in/u:nicholasjhenry)
 - [Blog - Medium](https://medium.com/@nicholasjhenry)
 - [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
