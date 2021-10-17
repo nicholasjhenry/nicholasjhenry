@@ -10,7 +10,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [ExCheckout with Nerves, Scenic and OTP](https://www.youtube.com/playlist?list=PLe07JYpYU5F08hA5AyxKQRGzX3POgTBjn) (Montreal Elixir, September 2018)
 - [Elixir is Transforming My Mind - An Introduction to Elixir](https://vimeo.com/148664265) | [Slides](https://speakerdeck.com/nicholasjhenry/how-elixir-is-transforming-my-mind) (Montreal.rb, December 2014)
 - [Don't Commit Your Secrets - Securing your Rails Application](https://vimeo.com/98544062) | [Slides](https://speakerdeck.com/nicholasjhenry/dont-commit-your-secrets) (Montreal.rb, June 2014)
-- [Modeling on the Right Side of the Brain - Domain Modeling](https://www.youtube.com/watch?v=ABIvpz50cKU) | [Slides](https://speakerdeck.com/nicholasjhenry/modeling-on-the-right-side-of-the-brain) RailsConf 2014)
+- [Modeling on the Right Side of the Brain - Domain Modeling](https://www.youtube.com/watch?v=ABIvpz50cKU) | [Slides](https://speakerdeck.com/nicholasjhenry/modeling-on-the-right-side-of-the-brain) (RailsConf 2014)
 
 ### Social Media
 
