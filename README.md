@@ -30,7 +30,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 ## Publications
 
 - [Elixir Radar](https://sendy.elixir-radar.com/w/BNoHZTqLnAByWgOl6x892ZRw/J8921cxQ4jeEDmbVKDWh02aw/Az892hFCnr0XRk763iZFssXNVQ) - Featured "The Upside Dimension of Elixir - An Introduction to Metaprogramming"
-- [Rails is Not your Application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html) - Published FirstHand Blog
+- [Rails is Not your Application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html) - Published Firsthand Blog
 
 <!--
 **nicholasjhenry/nicholasjhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
