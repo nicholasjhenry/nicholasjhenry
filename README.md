@@ -29,7 +29,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [Vimeo](https://vimeo.com/nicholasjhenry)
 - [Disqus](https://disqus.com/by/nicholasjhenry/)
 
-## Publications
+### Publications
 
 - [Elixir Radar](https://sendy.elixir-radar.com/w/BNoHZTqLnAByWgOl6x892ZRw/J8921cxQ4jeEDmbVKDWh02aw/Az892hFCnr0XRk763iZFssXNVQ) - Featured "The Upside Dimension of Elixir - An Introduction to Metaprogramming"
 - [Rails is Not your Application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html) - Published Firsthand Blog
