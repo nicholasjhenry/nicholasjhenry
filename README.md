@@ -27,6 +27,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 - [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
 - [Gravatar](https://en.gravatar.com/nicholasjhenry)
 - [Vimeo](https://vimeo.com/nicholasjhenry)
+- [Disqus](https://disqus.com/by/nicholasjhenry/
 
 ## Publications
 
