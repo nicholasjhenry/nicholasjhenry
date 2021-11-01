@@ -18,7 +18,6 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 | 2015 | Montreal.rb     | [Elixir is Transforming My Mind - An Introduction to Elixir](https://vimeo.com/148664265)                                    | [Slides](https://speakerdeck.com/nicholasjhenry/how-elixir-is-transforming-my-mind)                                                                                                                                                                 |
 | 2014 | Montreal.rb     | [Don't Commit Your Secrets - Securing your Rails Application](https://vimeo.com/98544062)                                    | [Slides](https://speakerdeck.com/nicholasjhenry/dont-commit-your-secrets)                                                                                                                                                                           |
 | 2014 | RailConf        | [Modeling on the Right Side of the Brain - Domain Modeling](https://www.youtube.com/watch?v=ABIvpz50cKU)                     | [Slides](https://speakerdeck.com/nicholasjhenry/modeling-on-the-right-side-of-the-brain)                                                                                                                                                            |
-nd.ca/2011/10/rails-is-not-your-application.html) - Published Firsthand Blog
 
 ### Publications
 
