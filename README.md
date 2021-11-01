@@ -18,19 +18,18 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 | 2015 | Montreal.rb     | [Elixir is Transforming My Mind - An Introduction to Elixir](https://vimeo.com/148664265)                                    | [Slides](https://speakerdeck.com/nicholasjhenry/how-elixir-is-transforming-my-mind)                                                                                                                                                                 |
 | 2014 | Montreal.rb     | [Don't Commit Your Secrets - Securing your Rails Application](https://vimeo.com/98544062)                                    | [Slides](https://speakerdeck.com/nicholasjhenry/dont-commit-your-secrets)                                                                                                                                                                           |
 | 2014 | RailConf        | [Modeling on the Right Side of the Brain - Domain Modeling](https://www.youtube.com/watch?v=ABIvpz50cKU)                     | [Slides](https://speakerdeck.com/nicholasjhenry/modeling-on-the-right-side-of-the-brain)                                                                                                                                                            |
+nd.ca/2011/10/rails-is-not-your-application.html) - Published Firsthand Blog
 
 ### Publications
 
-* [Elixir Radar](https://sendy.elixir-radar.com/w/BNoHZTqLnAByWgOl6x892ZRw/J8921cxQ4jeEDmbVKDWh02aw/Az892hFCnr0XRk763iZFssXNVQ) - Featured "The Upside Dimension of Elixir - An Introduction to Metaprogramming"
-* [Rails is Not your Application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html) - Published Firsthand Blog
+* [Blog - Medium](https://medium.com/@nicholasjhenry)
+* [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
 
 ### Social Media
 
 * [Twitter](https://twitter.com/nicholasjhenry)
 * [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ/playlists?view=1&sort=lad&flow=grid)
 * [Pinboard](https://pinboard.in/u:nicholasjhenry)
-* [Blog - Medium](https://medium.com/@nicholasjhenry)
-* [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
 * [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
 * [Gravatar](https://en.gravatar.com/nicholasjhenry)
 * [Vimeo](https://vimeo.com/nicholasjhenry)
