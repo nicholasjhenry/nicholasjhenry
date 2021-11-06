@@ -1,5 +1,13 @@
 ## Nicholas Henry: Senior Business Application Developer with Elixir and PostgreSQL
 
+### About Me
+
+I develop custom software that solves complex business process problems. By designing technical solutions, I optimize the specialized operations that unique businesses use to grow and thrive. I am an experienced business software developer with expertise in web applications, process automation, and complex workflows.
+
+I build applications with ​Elixir​, a modern programming language powered by ​Erlang​, a 30-year-old platform known for concurrency, distribution, and fault tolerance. I advocate for the Elixir programming language through the ​Montreal Elixir group​, a local meetup in which he co-founded and is an active organizer.
+
+Event storming, Story mapping, and Business Event Analysis and Modeling are some of the tools I have adopted to clarify business processes to ensure software development efforts are focused on solving the right problem.
+
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). Located in Montreal, QC, Canada.
 
 ### Associations
