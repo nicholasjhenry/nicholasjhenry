@@ -34,13 +34,13 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 ### Social Media
 
-* [Twitter](https://twitter.com/nicholasjhenry)
-* [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ/playlists?view=1&sort=lad&flow=grid)
+* [Disqus](https://disqus.com/by/nicholasjhenry/)
+* [Gravatar](https://en.gravatar.com/nicholasjhenry)
 * [Pinboard](https://pinboard.in/u:nicholasjhenry)
 * [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
-* [Gravatar](https://en.gravatar.com/nicholasjhenry)
+* [Twitter](https://twitter.com/nicholasjhenry)
+* [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ/playlists?view=1&sort=lad&flow=grid)
 * [Vimeo](https://vimeo.com/nicholasjhenry)
-* [Disqus](https://disqus.com/by/nicholasjhenry/)
 
 <!--
 **nicholasjhenry/nicholasjhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
