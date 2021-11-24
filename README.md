@@ -35,6 +35,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 ### Social Media
 
 * [Disqus](https://disqus.com/by/nicholasjhenry/)
+* [Google Developer Profile](https://g.dev/nicholasjhenry)
 * [Gravatar](https://en.gravatar.com/nicholasjhenry)
 * [Pinboard](https://pinboard.in/u:nicholasjhenry)
 * [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
