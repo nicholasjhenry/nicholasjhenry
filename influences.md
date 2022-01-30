@@ -16,7 +16,7 @@ GitHub repositories that may be private (sorry about that).
 ## Object Design
 
 - Streamlined Object Modeling [🌎](http://www.streamlinedmodeling.com) [🕵🏻‍♂️](https://github.com/nicholasjhenry/streamlined-object-modeling)
-- Object Models [📕](https://www.google.ca/books/edition/Object_Models/totQAAAAMAAJ) [🕵🏻‍♂️](https://github.com/nicholasjhenry/object-models)
+- Object Models: Strategies, Patterns, and Applications [🌎](https://object-model-patterns.s3-us-east-2.amazonaws.com/index.html) [📕](https://www.google.ca/books/edition/Object_Models/totQAAAAMAAJ) [🕵🏻‍♂️](https://github.com/nicholasjhenry/object-models)
 - Java Modeling in Color with UML [📕](https://books.google.ca/books/about/Java_Modeling_in_Color_with_UML.html?id=fo0_AQAAIAAJ) [🕵🏻‍♂️](https://github.com/nicholasjhenry/java-modeling-in-color-with-uml)
 - Analysis Patterns - Resuable Object Models [📕](https://books.google.ca/books?id=4V8pZmpwmBYC)
 
