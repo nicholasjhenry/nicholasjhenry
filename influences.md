@@ -47,7 +47,7 @@ GitHub repositories that may be private (sorry about that).
 - Event-Based Programming
 - Star Schemas
 - Flow Design [🌎](https://flow-design.org) / IODA Architecture
-- East-Oriented
+- East-Oriented [🌎](https://github.com/nicholasjhenry/east-oriented-code/tree/master/blog-archive)
 - Domain-Driven Design [🌎](https://github.com/civilcode/playbook/blob/master/education/trails/domain-driven-design.md): Object and Functional
 - Specification by Example [🌎](https://github.com/civilcode/playbook/blob/master/education/trails/specification-by-example.md)
 - Command Query Responsibility Segregation (CQRS)
