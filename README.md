@@ -4,11 +4,19 @@
 
 I develop custom software that solves your complex business problems. By designing technical solutions, I optimize the specialized operations that your unique business uses to grow and thrive. I am an experienced business software developer with expertise in web applications, process automation, and complex workflows.
 
-I build applications with [Elixir](https://elixir-lang.org), a modern programming language powered by [Erlang](https://www.erlang.org), a 30-year-old platform known for concurrency, distribution, and fault tolerance. I advocate for the Elixir programming language through the [Montreal Elixir](https://www.montrealelixir.ca) group​, a local meetup which I co-founded.
+I build applications with [Elixir](https://elixir-lang.org), a modern programming language powered by [Erlang](https://www.erlang.org), a 30-year-old platform known for concurrency, distribution, and fault tolerance. I advocate for the Elixir programming language through the [Montreal Elixir](https://www.montrealelixir.ca) group, a local meetup which I co-founded.
 
 [Event storming](https://www.eventstorming.com), [Story mapping](https://www.jpattonassociates.com/the-new-backlog/), and [Business Event Analysis and Modeling](https://modelstorming.com) are some tools I have adopted to clarify business processes and ensure software development efforts are focused on solving the right problem.
 
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). Located in Montreal, QC, Canada.
+
+### Professional Development (PD) Log
+
+What have I've been researching lately? (Last updated 12/10/2022)
+
+* The biggest influence on my thinking these days is the book [The Art of Immutable Architureture](https://www.immutablearchitecture.com) by [Michael L Perry](https://twitter.com/michaellperry); especially the concept of **content addressable data**. The concept of creating immutable records of state change for entities or business capabilities extends the concepts of event sourcing and automonous components to a distributed environment. Based on the author's course on Pluralsight, [Fundamentals of Distributed Systems](https://app.pluralsight.com/library/courses/distributed-systems-fundamentals), I've been porting the examples to Elixir [available here](https://github.com/nicholasjhenry/globo-ticket-platform/tree/develop).
+* In addition to above, the [Eventide Project](https://eventide-project.org), along with the [community](http://eventide-project-slack.herokuapp.com) and it's founders [Scott Bellware](https://twitter.com/sbellware) and [Nathan Ladd](https://twitter.com/realntl), I've continued my exploration in Autonomous Services. The core structure of [components](https://github.com/eventide-examples/account-component) is now the defacto way I design Elixir applications. And as an aside, the concepts of [subsitutes](http://docs.eventide-project.org/user-guide/useful-objects.html#substitutes), [controls](https://github.com/eventide-examples/account-component/tree/master/lib/account_component/controls) and [telemetry](http://docs.eventide-project.org/user-guide/useful-objects.html#telemetry-and-transparency) are life changing for a developer (yes, I know this comes from the doctrine of objects -- what are objects but parameterized functions).
+* This all started from porting [Practical Microservices](https://pragprog.com/titles/egmicro/practical-microservices/) by [Ethan Garofolo](https://twitter.com/EthanGarofolo) to [Elixir](https://github.com/nicholasjhenry/practical-microservices-ex). I :heart: these paths of exploration. 
 
 ### Associations
 
