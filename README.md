@@ -12,8 +12,8 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 ### Associations
 
-* [Montreal Elixir Meetup](https://www.montrealelixir.ca)
-* [CivilCode Collective](https://www.civilcode.io)
+- [Montreal Elixir Meetup](https://www.montrealelixir.ca)
+- [CivilCode Collective](https://www.civilcode.io)
 
 ### Presentations
 
@@ -30,19 +30,19 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 ### Publications
 
-* [Blog - Medium](https://medium.com/@nicholasjhenry)
-* [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
+- [Blog - Medium](https://medium.com/@nicholasjhenry)
+- [Blog - Firsthand](http://blog.firsthand.ca) (Deprecated)
 
 ### Social Media
 
-* [Disqus](https://disqus.com/by/nicholasjhenry/)
-* [Google Developer Profile](https://g.dev/nicholasjhenry)
-* [Gravatar](https://en.gravatar.com/nicholasjhenry)
-* [Pinboard](https://pinboard.in/u:nicholasjhenry)
-* [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
-* [Twitter](https://twitter.com/nicholasjhenry)
-* [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ/playlists?view=1&sort=lad&flow=grid)
-* [Vimeo](https://vimeo.com/nicholasjhenry)
+- [Disqus](https://disqus.com/by/nicholasjhenry/)
+- [Google Developer Profile](https://g.dev/nicholasjhenry)
+- [Gravatar](https://en.gravatar.com/nicholasjhenry)
+- [Pinboard](https://pinboard.in/u:nicholasjhenry)
+- [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
+- [Twitter](https://twitter.com/nicholasjhenry)
+- [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ/playlists?view=1&sort=lad&flow=grid)
+- [Vimeo](https://vimeo.com/nicholasjhenry)
 
 <!--
 **nicholasjhenry/nicholasjhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
