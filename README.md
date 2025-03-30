@@ -35,12 +35,13 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). 
 
 ### Social Media
 
+- [Bluesky](https://bsky.app/profile/nicholasjhenry.bsky.social)
 - [Disqus](https://disqus.com/by/nicholasjhenry/)
 - [Google Developer Profile](https://g.dev/nicholasjhenry)
 - [Gravatar](https://en.gravatar.com/nicholasjhenry)
 - [Pinboard](https://pinboard.in/u:nicholasjhenry)
 - [Speaker Deck](https://speakerdeck.com/nicholasjhenry)
-- [Twitter](https://twitter.com/nicholasjhenry)
+- [Twitter](https://twitter.com/nicholasjhenry) (Deprecated)
 - [YouTube](https://www.youtube.com/channel/UCNEhwreU783o8dI8B1PH_AQ/playlists?view=1&sort=lad&flow=grid)
 - [Vimeo](https://vimeo.com/nicholasjhenry)
 
