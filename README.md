@@ -2,11 +2,11 @@
 
 ### About Me
 
-I develop custom software that solves your complex business problems. By designing technical solutions, I optimize the specialized operations that your unique business uses to grow and thrive. I am an experienced business software developer with expertise in web applications, process automation, and complex workflows.
+Senior software developer with 30 years of experience transforming business operations with thoughtful automation. I specialize in building scalable applications with Elixir, Phoenix, and PostgreSQL that solve real business problems—from streamlining complex workflows to creating robust data pipelines.
 
-I build applications with [Elixir](https://elixir-lang.org), a modern programming language powered by [Erlang](https://www.erlang.org), a 30-year-old platform known for concurrency, distribution, and fault tolerance. I advocate for the Elixir programming language through the [Montreal Elixir](https://www.montrealelixir.ca) group, a local meetup which I co-founded.
+Beyond technical implementation, I serve as a business analyst, ensuring solutions align with organizational goals and user needs.
 
-[Event storming](https://www.eventstorming.com), [Story mapping](https://www.jpattonassociates.com/the-new-backlog/), and [Business Event Analysis and Modeling](https://modelstorming.com) are some tools I have adopted to clarify business processes and ensure software development efforts are focused on solving the right problem.
+Available for both short and long-term engagements with corp-to-corp invoicing and full liability coverage.
 
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nicholasjhenry/). Located in Montreal, QC, Canada.
 
